@@ -1,0 +1,46 @@
+    [
+      {
+        "teamName": "Team A",
+        "password": "beu25#$hsj",
+        "players": [
+          {"name": "Player1A", "jerseyNumber": "01"},
+          {"name": "Player1B", "jerseyNumber": "02"},
+          {"name": "Player1C", "jerseyNumber": "03"},
+          {"name": "Player1D", "jerseyNumber": "04"},
+          {"name": "Player1E", "jerseyNumber": "05"}
+        ]
+      },
+      {
+        "teamName": "Team B",
+        "password": "beu25#$hsj",
+        "players": [
+          {"name": "Player2A", "jerseyNumber": "01"},
+          {"name": "Player2B", "jerseyNumber": "02"},
+          {"name": "Player2C", "jerseyNumber": "03"},
+          {"name": "Player2D", "jerseyNumber": "04"},
+          {"name": "Player2E", "jerseyNumber": "05"}
+        ]
+      },
+      {
+        "teamName": "Team C",
+        "password": "beu25#$hsj",
+        "players": [
+          {"name": "Player3A", "jerseyNumber": "01"},
+          {"name": "Player3B", "jerseyNumber": "02"},
+          {"name": "Player3C", "jerseyNumber": "03"},
+          {"name": "Player3D", "jerseyNumber": "04"},
+          {"name": "Player3E", "jerseyNumber": "05"}
+        ]
+      },
+      {
+        "teamName": "Team D",
+        "password": "beu25#$hsj",
+        "players": [
+          {"name": "Player4A", "jerseyNumber": "01"},
+          {"name": "Player4B", "jerseyNumber": "02"},
+          {"name": "Player4C", "jerseyNumber": "03"},
+          {"name": "Player4D", "jerseyNumber": "04"},
+          {"name": "Player4E", "jerseyNumber": "05"}
+        ]
+      }
+    ]

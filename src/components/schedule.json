@@ -1,0 +1,62 @@
+[
+  {
+    "Teama": "Team A",
+    "Teamb": "Team B",
+    "day": 1
+  },
+  {
+    "Teama": "Team A",
+    "Teamb": "Team C",
+    "day": 3
+  },
+  {
+    "Teama": "Team A",
+    "Teamb": "Team D",
+    "day": 5
+  },
+  {
+    "Teama": "Team B",
+    "Teamb": "Team C",
+    "day": 7
+  },
+  {
+    "Teama": "Team B",
+    "Teamb": "Team D",
+    "day": 9
+  },
+  {
+    "Teama": "Team C",
+    "Teamb": "Team D",
+    "day": 11
+  },
+  {
+    "Teama": "Team C",
+    "Teamb": "Team D",
+    "day": 13
+  },
+  {
+    "Teama": "Team A",
+    "Teamb": "Team B",
+    "day": 15
+  },
+  {
+    "Teama": "Team A",
+    "Teamb": "Team C",
+    "day": 17
+  },
+  {
+    "Teama": "Team A",
+    "Teamb": "Team D",
+    "day": 19
+  },
+  {
+    "Teama": "Team B",
+    "Teamb": "Team C",
+    "day": 21
+  },
+  {
+    "Teama": "Team B",
+    "Teamb": "Team D",
+    "day": 23
+  }
+]
